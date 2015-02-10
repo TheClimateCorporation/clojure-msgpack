@@ -6,7 +6,7 @@ clojure-msgpack is a library for
 
 ## Installation
 
-See https://clojars.org/clojure-msgpack
+Released into tcc repository until opensource version released.
 
 ## Usage
 
